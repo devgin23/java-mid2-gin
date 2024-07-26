@@ -5,7 +5,6 @@ public class Cat extends Animal{
         super(name, size);
     }
 
-    @Override
     public String getName() {
         return super.getName();
     }
