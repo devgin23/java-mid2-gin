@@ -1,9 +1,7 @@
-package generic.test.ex4;
+package generic.ex4;
 
 import generic.animal.Cat;
 import generic.animal.Dog;
-
-import java.util.Collection;
 
 public class MethodMain3 {
 

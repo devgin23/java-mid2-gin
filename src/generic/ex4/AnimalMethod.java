@@ -1,7 +1,6 @@
-package generic.test.ex4;
+package generic.ex4;
 
 import generic.animal.Animal;
-import generic.animal.Cat;
 
 public class AnimalMethod {
 

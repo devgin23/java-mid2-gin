@@ -1,6 +1,4 @@
-package generic.test.ex4;
-
-import java.util.Arrays;
+package generic.ex4;
 
 public class MethodMain1 {
     public static void main(String[] args) {
