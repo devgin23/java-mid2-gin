@@ -1,9 +1,9 @@
 package collection.set;
 
-public class MyHashSetVOMain {
+public class MyHashSetV0Main {
 
     public static void main(String[] args) {
-        MyHashSetVO set = new MyHashSetVO();
+        MyHashSetV0 set = new MyHashSetV0();
         set.add(1); //O(1)
         set.add(2); //O(n)
         set.add(3); //O(n)

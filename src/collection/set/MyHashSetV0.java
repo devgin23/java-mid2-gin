@@ -2,7 +2,7 @@ package collection.set;
 
 import java.util.Arrays;
 
-public class MyHashSetVO {
+public class MyHashSetV0 {
     private int[] elementData = new int[10];
     private int size = 0;
 
