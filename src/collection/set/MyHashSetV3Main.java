@@ -14,6 +14,6 @@ public class MyHashSetV3Main {
         boolean result = set.contains(searchValue);
         System.out.println("set.contains(" + searchValue + ") = " + result);
 
-        
+
     }
 }
